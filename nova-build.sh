@@ -15,8 +15,8 @@ CCACHE_DIR="$KERNEL_PATH/.ccache"
 
 export LC_ALL=C
 export ARCH=arm64
-export KBUILD_BUILD_USER="Wahid7852"
-export KBUILD_BUILD_HOST="NoVA"
+export KBUILD_BUILD_USER="Rootrequired"
+export KBUILD_BUILD_HOST="Arch"
 export USE_HOST_LEX=yes
 
 CC_CMD="clang"
